@@ -4,7 +4,7 @@
 
 ## 🌟 About Me  
 
-👋 Hi, I'm Odediran Ifeoluwa, a **Full-Stack Web Developer** and **Solidity Developer** passionate about building scalable and efficient applications. I specialize in **Next.js, React, Node.js, Express, Prisma, PostgreSQL, Solidity, and blockchain development**.  
+👋 Hi, I'm Odediran Ifeoluwa, a **Full-Stack Web Developer** and **Solidity Developer** passionate about building scalable and efficient applications. I specialize in **Next.js, React, Node.js, Express, Prisma, PostgreSQL, MongoDB, Solidity, and blockchain development**.  
 
 💡 My focus areas include:  
 - 🏗️ **Decentralized Applications (DApps)**  
@@ -21,6 +21,9 @@
 🔹 **Tools & DevOps:** Git, Docker, CI/CD, Web3.js, Ethers.js  
 
 ## 📌 Featured Projects  
+
+🖼 **[NFT Staking System](https://github.com/your-repo)**  
+🔗 A decentralized NFT staking platform where users can stake their NFTs and earn rewards. Built with **Solidity, Hardhat, Thirdweb, and React.js**. Features include **custom staking periods, ERC-721 token support, and dynamic reward calculations**.  
 
 🚀 **[Decentralized Real Estate Listing](https://github.com/your-repo)**  
 💡 A blockchain-based real estate platform where users can list and purchase properties using smart contracts. Features include **IPFS image storage, smart contract interactions, and a React-based UI**.  
@@ -39,9 +42,9 @@
 
 ## 📬 Let's Connect  
 
-🌐 **Portfolio:** [your-portfolio.com](https://ifeoluwa-odediran.netlify.app/)  
-💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-🐦 **Twitter/X:** [@yourhandle](https://twitter.com/yourhandle)  
+🌐 **Portfolio:** [Visit](https://ifeoluwa-odediran.netlify.app/)  
+💼 **LinkedIn:** [checkout](https://linkedin.com/in/odediran-ifeoluwa-02a842212)  
+🐦 **Twitter/X:** [connect](https://x.com/web_dev_ife)  
 📧 **Email:** odediranifeoluwa@gmail.com 
 
 🚀 **"Building the Future of Web & Blockchain, One Line at a Time!"**  
