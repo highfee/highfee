@@ -22,16 +22,16 @@
 
 ## 📌 Featured Projects  
 
-🖼 **[NFT Staking System](https://github.com/your-repo)**  
+🖼 **[NFT Staking System](https://github.com/highfee/crazzzy-contracts)**  
 🔗 A decentralized NFT staking platform where users can stake their NFTs and earn rewards. Built with **Solidity, Hardhat, Thirdweb, and React.js**. Features include **custom staking periods, ERC-721 token support, and dynamic reward calculations**.  
 
-🚀 **[Decentralized Real Estate Listing](https://github.com/your-repo)**  
+🚀 **[Decentralized Real Estate Listing]**  
 💡 A blockchain-based real estate platform where users can list and purchase properties using smart contracts. Features include **IPFS image storage, smart contract interactions, and a React-based UI**.  
 
 🔗 **[Loan & Contribution App](https://github.com/highfee/loan-app)**  
 📊 A financial web app built with **Next.js, Appwrite, and PostgreSQL**, featuring **admin dashboards, member contributions, and loan tracking**.  
 
-🎨 **[Custom Form Builder](https://github.com/your-repo)**  
+🎨 **[Custom Form Builder]**  
 📑 A drag-and-drop form builder with support for **radio buttons, text inputs, date pickers, and more**, inspired by Google Forms. Built with **React, Tailwind CSS, and Prisma**.  
 
 ## 📈 GitHub Stats  
