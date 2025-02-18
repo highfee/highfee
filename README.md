@@ -28,7 +28,7 @@
 🚀 **[Decentralized Real Estate Listing](https://github.com/your-repo)**  
 💡 A blockchain-based real estate platform where users can list and purchase properties using smart contracts. Features include **IPFS image storage, smart contract interactions, and a React-based UI**.  
 
-🔗 **[Loan & Contribution App](https://github.com/your-repo)**  
+🔗 **[Loan & Contribution App](https://github.com/highfee/loan-app)**  
 📊 A financial web app built with **Next.js, Appwrite, and PostgreSQL**, featuring **admin dashboards, member contributions, and loan tracking**.  
 
 🎨 **[Custom Form Builder](https://github.com/your-repo)**  
